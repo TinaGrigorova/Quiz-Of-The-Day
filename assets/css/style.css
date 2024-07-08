@@ -1,6 +1,9 @@
 body {
     background-color: rgb(32, 110, 92);
 }
+.logo{
+    width: 100px;
+}
 .app{
     width: 90;
     max-width: 600px;
