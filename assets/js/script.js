@@ -1,1 +1,12 @@
-console.log("connected!")
+function startQuiz(){
+
+}
+function showQuestions(){
+
+}
+function resetState(){
+
+}
+function selectAnswer(){
+    
+}
